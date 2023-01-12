@@ -10,6 +10,8 @@ These tools are handpicked by me and are already tried and tested.
  
 - [Grepper](https://www.grepper.com/) ~ Grepper is the ultimate RAM upgrade for the software developers brain. Easily snag code examples from around the web, then access your code examples without having to think. 
 
+- [Wordtune](https://www.wordtune.com/) ~ Wordtune is an AI-powered writing companion that rephrases your sentences to say exactly what you mean through clear, compelling, and authentic writing.
+
 - [You Search engine](https://you.com/) ~ You.com is a search engine that summarizes the best parts of the internet for you, without ads and with great privacy.
 
 - [Jenni Ai](https://jenni.ai/) ~ An AI auto-writing tool that automatically writes your essays and emails for you.
