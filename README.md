@@ -12,11 +12,17 @@ These tools are handpicked by me and are already tried and tested.
 
 - [You Search engine](https://you.com/) ~ You.com is a search engine that summarizes the best parts of the internet for you, without ads and with great privacy.
 
-- [Slides Go](https://slidesgo.com/) ~ Slidesgo offers an extensive catalog of free Google Slides themes and PowerPoint templates for creative presentations.
+- [Jenni Ai](https://jenni.ai/) ~ An AI auto-writing tool that automatically writes your essays and emails for you.
+
+- [Denigma](https://denigma.app/) ~ Denigma is a tool that explains code in understandable english.
 
 - [Text to Handwritting](https://texttohandwriting.com/) ~ Text to handwriting converter is a free artificial intelligence-based human handwriting converter that easily converts your computer text to human handwriting text.
 
 - [Toffee share](https://toffeeshare.com/) ~ ToffeeShare uses end to end encrypted peer to peer technology to transfer files directly from your computer to other devices.
+
+- [Cleanup Pictures](https://cleanup.pictures/) ~ Remove unwanted objects from photos, people, text, and defects from any picture for free.
+
+- [Carbon](https://carbon.now.sh/) ~ Carbon is the easiest way to create and share beautiful images of your source code.
 
 - [Jotform](https://www.jotform.com/) ~ Create professional-looking forms with no coding using Jotform's online Form Builder.
 
@@ -36,8 +42,6 @@ These tools are handpicked by me and are already tried and tested.
 
 - [File Pursuit](https://filepursuit.com/) ~ Discover Everything!, Search the web for files, videos, audios, eBooks and much more.
 
-- [Cleanup Pictures](https://cleanup.pictures/) ~ Remove unwanted objects from photos, people, text, and defects from any picture for free.
-
 - [Buffer](https://buffer.com/) ~ social media toolkit for small businesses
 
 - [Cutout pro](https://www.cutout.pro/) ~ All-in-one visual design platform containing AI photo and video editing tools.
@@ -46,11 +50,7 @@ These tools are handpicked by me and are already tried and tested.
 
 - [readme.so](https://readme.so/) ~ Use readme.so's markdown editor and templates to easily create a ReadMe for your projects.
 
-- [Denigma](https://denigma.app/) ~ Denigma is a tool that explains code in understandable english.
-
-- [Carbon](https://carbon.now.sh/) ~ Carbon is the easiest way to create and share beautiful images of your source code.
-
-- [Jenni Ai](https://jenni.ai/) ~ An AI auto-writing tool that automatically writes your essays and emails for you.
+- [Slides Go](https://slidesgo.com/) ~ Slidesgo offers an extensive catalog of free Google Slides themes and PowerPoint templates for creative presentations.
 
 - [Overleaf](https://www.overleaf.com/) ~ An online LaTeX editor that's easy to use an mainly used to make CV.
 
