@@ -8,7 +8,7 @@ These tools are handpicked by me and are already tried and tested.
 
 ## List
  
-- [Grepper](https://www.grepper.com/) ~
+- [Grepper](https://www.grepper.com/) ~ Grepper is the ultimate RAM upgrade for the software developers brain. Easily snag code examples from around the web, then access your code examples without having to think. 
 - [Slides Go](https://slidesgo.com/)
 - [Text to Handwritting](https://texttohandwriting.com/)
 - [Toffee share](https://toffeeshare.com/)
