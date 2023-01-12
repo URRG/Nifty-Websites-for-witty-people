@@ -7,6 +7,7 @@ These tools are handpicked by me and are already tried and tested.
 
 
 ## List
+- [Poised](https://www.poised.com/) ~ Poised is an AI-powered speech coach that gives you real-time and retrospective feedback on your virtual meetings.
  
 - [Grepper](https://www.grepper.com/) ~ Grepper is the ultimate RAM upgrade for the software developers brain. Easily snag code examples from around the web, then access your code examples without having to think. 
 
@@ -61,4 +62,7 @@ These tools are handpicked by me and are already tried and tested.
 ## Authors
 
 - [@URRG](https://www.github.com/URRG)
+
+
+<p align="center">Will Keep Updating this List timely.</p>
 
